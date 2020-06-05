@@ -1,11 +1,11 @@
 {
-    "name": "demo_proof_of_delivery",
-    "short_name": "demo_proof_of_delivery",
+    "name": "Demo proof of delivery",
+    "short_name": "Proof of delivery",
     "start_url": ".",
-    "display": "minimal-ui",
+    "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "A demo of proof of delivery",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
